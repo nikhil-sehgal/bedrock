@@ -1,2 +1,2 @@
 # bedrock
-Repository for bedrock implantation
+Repository for bedrock implementation

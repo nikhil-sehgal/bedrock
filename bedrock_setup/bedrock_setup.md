@@ -19,4 +19,7 @@
 ![](assets/bedrock6.jpg)
 
 7. Once submitted successfully, you’ll see the following banner. It may take a few minutes for the models to move from * *In Progress to Access Granted* * status. You can use the **Refresh** button periodically to check for updates and verify that the model access status is * *Access Granted* * for the selected models.
+<<<<<<< HEAD
 ![](assets/bedrock7.jpg)
+=======
+>>>>>>> 1a6aa7be256faa08a2dbf9939ee39fcb2b145492

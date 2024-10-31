@@ -1,6 +1,6 @@
-#Amazon Bedrock Setup Instructions
+# Amazon Bedrock Setup Instructions
 
-Search for **Amazon Bedrock** in the AWS console search bar at the top and select it.
+1. Search for **Amazon Bedrock** in the AWS console search bar at the top and select it.
 
 Expand the side menu by clicking it.
 

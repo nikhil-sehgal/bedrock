@@ -1,7 +1,7 @@
 # Amazon Bedrock Setup Instructions
 
 1. Search for **Amazon Bedrock** in the AWS console search bar at the top and select it.
-![image_test](/assets/bedrock1.jpg)
+![image_test](assets/bedrock1.jpg)
 
 2. Expand the side menu by clicking it.
 

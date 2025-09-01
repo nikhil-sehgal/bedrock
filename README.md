@@ -14,6 +14,8 @@ This repo contains **blogs + code samples** around:
 - `bedrock_setup/` → Hands-on to setup bedrock on cloud
 
 ### ✅ Current Content
+
+#### Blogs
 - Blog 1: Introduction to Amazon Bedrock
 - Blog 2: Agentic AI Overview
 - Blog 3: Map Server Basics
@@ -25,6 +27,7 @@ This repo contains **blogs + code samples** around:
 - Code 7: Prompt Injection Test
 - Code 8: Bedrock Guardrails Demo
 
+#### Codes
 - Code 1: Bedrock Chatbot (Python + boto3)
 - Code 2: Agentic Task Planner (Pure Python)
 - Code 3: Simple Map Server (Flask)
